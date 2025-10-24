@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋-->
 
-test 2
+How to reach me: issues and discussions in each repository
 
 
 <!--
