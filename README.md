@@ -1,7 +1,6 @@
+How to reach me: [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
+
 <!-- ## Hi there 👋-->
-
-How to reach me: issues and discussions in each repository
-
 
 <!--
 **occisn/occisn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
