@@ -1,3 +1,16 @@
+
+Coding is a hobby. Fan of Emacs and Lisp languages.
+
+My full [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config).
+
+[Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
+
+Common Lisp : [performance study](https://github.com/occisn/relative-performance)
+
+Some problem solving in [Emacs Lisp](https://github.com/occisn/elisp-problem-solving),  [spreadsheets](https://github.com/occisn/spreadsheet-problem-solving), [GNU Calc](https://github.com/occisn/calc-problem-solving)
+
+Utils for [Emacs](https://github.com/occisn/emacs-utils), [Emacs Lisp](https://github.com/occisn/elisp-utils).
+
 How to reach me: [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
 <!-- ## Hi there 👋-->
