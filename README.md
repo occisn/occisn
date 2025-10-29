@@ -1,6 +1,8 @@
 
 Coding is a hobby. Fan of Emacs and Lisp languages.
 
+I'm currently organizing and tidying up my project repositories.
+
 My full [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config).
 
 [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
