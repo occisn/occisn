@@ -11,7 +11,7 @@ I am currently consolidating [Common Lisp utilities](https://github.com/occisn/c
 
 Common Lisp : [performance study](https://github.com/occisn/cl-speed-relative-performance) (to be reviewed later)
 
-Some problem solving in [Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched), [Common Lisp]((https://github.com/occisn/cl-problem-solving)) (to be enriched), [spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), [GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized).
+Some problem solving in [Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched), [Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched), [spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), [GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized).
 
 Utils for [Emacs](https://github.com/occisn/emacs-utils), [Emacs Lisp](https://github.com/occisn/elisp-utils) and [Common Lisp](https://github.com/occisn/cl-utils).
 
