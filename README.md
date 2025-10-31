@@ -14,7 +14,7 @@ Common Lisp : [performance study](https://github.com/occisn/cl-speed-relative-pe
 Some problem solving in [Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched), [Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched), [spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), [GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized).
 
 Utils for [Emacs](https://github.com/occisn/emacs-utils), [Emacs Lisp](https://github.com/occisn/elisp-utils) and [Common Lisp](https://github.com/occisn/cl-utils)  
-+ [skeleton of Common Lisp project relying on ASDF](https://github.com/occisn/cl-asdf-example)
+\+ [skeleton of Common Lisp project relying on ASDF](https://github.com/occisn/cl-asdf-example)
 
 How to reach me: [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
