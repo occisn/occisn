@@ -3,9 +3,9 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 
 I'm currently organizing and tidying up my project repositories.
 
-I have already published my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config).
+I have already published my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config) (pinned).
 
-I am currently consolidating [Common Lisp utilities](https://github.com/occisn/cl-utils).
+I am currently consolidating [Common Lisp utilities](https://github.com/occisn/cl-utils) (pinned).
 
 [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
