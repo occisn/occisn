@@ -3,7 +3,7 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 
 *I'm currently organizing and tidying up my project repositories.*
 
-**Focus on projects :**  
+**Focus:**  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config) (pinned)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
