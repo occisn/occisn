@@ -4,37 +4,37 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 *I'm currently organizing and tidying up my project repositories.*
 
 **Focus on projects :**  
-- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config) (pinned)  
-- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config) (pinned)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
 **Full list of repositories :**
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
-- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
-- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) (to be reviewed later)  
-- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched)  
-- [minimal example of Common Lisp project relying on ASDF](https://github.com/occisn/cl-minimal-asdf-example)  
-- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+\- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
+\- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) (to be reviewed later)  
+\- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched)  
+\- [minimal example of Common Lisp project relying on ASDF](https://github.com/occisn/cl-minimal-asdf-example)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
-- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched)
+\- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-- (later)
+\- (later)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)  
-- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
-- [Utilities for Emacs](https://github.com/occisn/emacs-utils)
+\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
+\- [Utilities for Emacs](https://github.com/occisn/emacs-utils)
 
 ![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
-- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized)  
-- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+\- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
 ![Only Office](https://img.shields.io/badge/ONLYOFFICE-444444.svg?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)![Libre Office Calc](https://img.shields.io/badge/LibreOffice%20Calc-007C3C.svg?style=for-the-badge&logo=LibreOffice-Calc&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), 
+\- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), 
 
 <!-- ## Hi there 👋-->
 
