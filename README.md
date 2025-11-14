@@ -23,7 +23,8 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 \- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-\- (later)
+\- [Utilities for C](https://github.com/occisn/c-utils)  
+\- [Problem solving in C](https://github.com/occisn/c-problem-solving)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
@@ -33,7 +34,7 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 \- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
-![Only Office](https://img.shields.io/badge/ONLYOFFICE-444444.svg?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)![Libre Office Calc](https://img.shields.io/badge/LibreOffice%20Calc-007C3C.svg?style=for-the-badge&logo=LibreOffice-Calc&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Only Office](https://img.shields.io/badge/ONLYOFFICE-444444.svg?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)  ![Libre Office Calc](https://img.shields.io/badge/LibreOffice%20Calc-007C3C.svg?style=for-the-badge&logo=LibreOffice-Calc&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 \- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), 
 
 <!-- ## Hi there 👋-->
