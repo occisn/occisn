@@ -15,7 +15,7 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 \- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) (to be reviewed later)  
 \- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched)  
-\- [minimal example of Common Lisp project relying on ASDF](https://github.com/occisn/cl-minimal-asdf-example)  
+\- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
@@ -23,8 +23,14 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 \- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+\- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
 \- [Utilities for C](https://github.com/occisn/c-utils)  
 \- [Problem solving in C](https://github.com/occisn/c-problem-solving)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+\- [C++ minimal examples](https://github.com/occisn/cpp-minimal-examples)  
+\- [Utilities for C++](https://github.com/occisn/cpp-utils)  
+\- [Problem solving in C++](https://github.com/occisn/cpp-problem-solving)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
