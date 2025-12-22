@@ -1,26 +1,29 @@
 
 Coding is a hobby. Fan of Emacs and Lisp languages.
 
-*I'm currently organizing and tidying up my project repositories.*
+**Pinned:**  
+\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
 
-**Focus:**  
-\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config) (pinned)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+**Current (hobby) work:**  
+- (now) organize and tidy up `xxx-utils` repositories ([Common Lisp](https://github.com/occisn/cl-utils), [Emacs Lisp](https://github.com/occisn/elisp-utils), [C](https://github.com/occisn/c-utils), [C++](https://github.com/occisn/cpp-utils))  
+- (now) organize and tidy up `xxx-problem-solving` repositories ([Common Lisp](https://github.com/occisn/cl-problem-solving), [Emacs Lisp](https://github.com/occisn/elisp-problem-solving), [C](https://github.com/occisn/c-problem-solving), [C++](https://github.com/occisn/cpp-problem-solving))  
+- (later) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
+- (later) improve [Converter from Common Lisp to GNU Calc](https://github.com/occisn/cl-lisp2calc), and apply it to [problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
 **Full list of repositories :**
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
-\- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
-\- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) (to be reviewed later)  
-\- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving) (to be enriched)  
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+\- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
+\- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
+\- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving) (to be enriched)
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
@@ -37,11 +40,13 @@ Coding is a hobby. Fan of Emacs and Lisp languages.
 \- [Utilities for Emacs](https://github.com/occisn/emacs-utils)
 
 ![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
-\- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving) (stabilized)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc (to be reviewed later)
+\- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
 ![Only Office](https://img.shields.io/badge/ONLYOFFICE-444444.svg?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)  ![Libre Office Calc](https://img.shields.io/badge/LibreOffice%20Calc-007C3C.svg?style=for-the-badge&logo=LibreOffice-Calc&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-\- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) (stabilized), 
+\- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) 
+
+(end of README)
 
 <!-- ## Hi there 👋-->
 
