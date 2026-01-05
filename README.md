@@ -5,6 +5,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
 
 **Current (hobby) work:**  
+\- (now) [Tupper's self-referential formula](https://github.com/occisn/cl-tupper)  
 \- (now) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
 \- (later) organize and tidy up `xxx-problem-solving` repositories ([Common Lisp](https://github.com/occisn/cl-problem-solving), [Emacs Lisp](https://github.com/occisn/elisp-problem-solving), [C](https://github.com/occisn/c-problem-solving), [C++](https://github.com/occisn/cpp-problem-solving))  
 \- (later) improve [Converter from Common Lisp to GNU Calc](https://github.com/occisn/cl-lisp2calc), and apply it to [problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)
@@ -17,6 +18,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
 \- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
+\- [Tupper's self-referential formula](https://github.com/occisn/cl-tupper)  
 \- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
