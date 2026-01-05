@@ -5,8 +5,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
 
 **Current (hobby) work:**  
-\- (now) organize and tidy up my personal [Common Lisp utils](https://github.com/occisn/cl-utils) repository  
-\- (later) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
+\- (now) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
 \- (later) organize and tidy up `xxx-problem-solving` repositories ([Common Lisp](https://github.com/occisn/cl-problem-solving), [Emacs Lisp](https://github.com/occisn/elisp-problem-solving), [C](https://github.com/occisn/c-problem-solving), [C++](https://github.com/occisn/cpp-problem-solving))  
 \- (later) improve [Converter from Common Lisp to GNU Calc](https://github.com/occisn/cl-lisp2calc), and apply it to [problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)
 
