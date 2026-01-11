@@ -6,7 +6,9 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 **Current (hobby) work:**  
 \- (now) [Tupper's self-referential formula implemented in Common Lisp](https://github.com/occisn/cl-tupper)  
-\- (now) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
+\- (now) [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in C](https://github.com/occisn/c-morpho-butterfly)  
+\- (later) Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp  
+\- (later) update [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance) repository  
 \- (later) organize and tidy up `xxx-problem-solving` repositories ([Common Lisp](https://github.com/occisn/cl-problem-solving), [Emacs Lisp](https://github.com/occisn/elisp-problem-solving), [C](https://github.com/occisn/c-problem-solving), [C++](https://github.com/occisn/cpp-problem-solving))  
 \- (later) improve [Converter from Common Lisp to GNU Calc](https://github.com/occisn/cl-lisp2calc), and apply it to [problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)
 
@@ -29,7 +31,8 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
 \- [Utilities for C](https://github.com/occisn/c-utils)  
-\- [Problem solving in C](https://github.com/occisn/c-problem-solving)
+\- [Problem solving in C](https://github.com/occisn/c-problem-solving)  
+\- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in C](https://github.com/occisn/c-morpho-butterfly)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 \- [C++ minimal examples](https://github.com/occisn/cpp-minimal-examples)  
