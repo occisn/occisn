@@ -12,15 +12,13 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
 \- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
-\- [Tupper's self-referential formula implemented in Common Lisp](https://github.com/occisn/cl-tupper)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp](https://github.com/occisn/cl-morpho-butterfly)  
-\- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving)  
+\- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving): Project Euler, Tupper formula  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving)  
-\- [Tupper's self-referential formula implemented in Emacs Lisp](https://github.com/occisn/elisp-tupper)
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
