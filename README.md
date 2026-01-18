@@ -19,7 +19,8 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving)
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving)  
+\- [Tupper's self-referential formula implemented in Emacs Lisp](https://github.com/occisn/elisp-tupper)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
