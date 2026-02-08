@@ -10,30 +10,30 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
-\- [Utilities for Common Lisp](https://github.com/occisn/cl-utils)  
+\- [Personal utilities for Common Lisp](https://github.com/occisn/cl-utils)  
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp](https://github.com/occisn/cl-morpho-butterfly)  
 \- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving): Project Euler, Tupper formula  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
-\- [Utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
+\- [Personal utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
 \- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
-\- [Utilities for C](https://github.com/occisn/c-utils)  
+\- [Personal utilities for C](https://github.com/occisn/c-utils)  
 \- [Problem solving in C](https://github.com/occisn/c-problem-solving)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in C](https://github.com/occisn/c-morpho-butterfly)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 \- [C++ minimal examples](https://github.com/occisn/cpp-minimal-examples)  
-\- [Utilities for C++](https://github.com/occisn/cpp-utils)  
+\- [Personal utilities for C++](https://github.com/occisn/cpp-utils)  
 \- [Problem solving in C++](https://github.com/occisn/cpp-problem-solving)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
-\- [Utilities for Emacs](https://github.com/occisn/emacs-utils)
+\- [Personal utilities for Emacs](https://github.com/occisn/emacs-utils)
 
 ![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)  
