@@ -10,6 +10,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
+\- [Common Lisp GPU example](https://github.com/occisn/cl-gpu-example)  
 \- [Personal utilities for Common Lisp](https://github.com/occisn/cl-utils)  
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp](https://github.com/occisn/cl-morpho-butterfly)  
@@ -22,6 +23,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
+\- [C GPU example](https://github.com/occisn/c-gpu-example)  
 \- [Personal utilities for C](https://github.com/occisn/c-utils)  
 \- [Problem solving in C](https://github.com/occisn/c-problem-solving)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in C](https://github.com/occisn/c-morpho-butterfly)
