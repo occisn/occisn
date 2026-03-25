@@ -5,6 +5,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
 
 **Currently working on:**  
+![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
 \- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc (stack-based RPN keyboard macros)
