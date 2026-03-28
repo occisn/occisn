@@ -3,11 +3,12 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 
 **Pinned:**  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
+\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
-**Full list of repositories :**
+**Full list of repositories per category:** (a project may appear in several categories)
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
@@ -16,14 +17,17 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- [Common Lisp performance](https://github.com/occisn/cl-speed-relative-performance)  
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp](https://github.com/occisn/cl-morpho-butterfly)  
 \- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving): Project Euler, Tupper formula  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
+\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Personal utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula  
+\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
-\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc
+\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc  
+\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
