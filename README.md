@@ -22,6 +22,9 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- [Personal utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
 \- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
+\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 \- [C minimal examples](https://github.com/occisn/c-minimal-examples)  
 \- [C GPU example](https://github.com/occisn/c-gpu-example)  
