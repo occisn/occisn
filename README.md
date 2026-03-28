@@ -2,13 +2,8 @@
 Coding is a hobby. Fan of Emacs and Common Lisp.
 
 **Pinned:**  
-\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
-
-**Currently working on:**  
-![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
-\- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
-\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc (stack-based RPN keyboard macros)
+\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
+\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
@@ -46,7 +41,7 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 ![GNU Calc](https://img.shields.io/badge/GNU%20Calc-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Problem solving in GNU Calc](https://github.com/occisn/calc-problem-solving)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
-\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc (stack-based RPN keyboard macros)
+\- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc
 
 ![Only Office](https://img.shields.io/badge/ONLYOFFICE-444444.svg?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)  ![Libre Office Calc](https://img.shields.io/badge/LibreOffice%20Calc-007C3C.svg?style=for-the-badge&logo=LibreOffice-Calc&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 \- [problem solving in spreadsheets](https://github.com/occisn/spreadsheet-problem-solving) 
