@@ -1,10 +1,11 @@
 
 Coding is a hobby. Fan of Emacs and Common Lisp.
 
-**Pinned:**  
-\- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
-\- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
-\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
+**Pinned:**
+  - my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)
+  - [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc
+  - [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
+  - [cl-z21](https://github.com/occisn/cl-z21): Common Lisp minimal demonstration code for controlling Roco Z21 model railway command stations over LAN (UDP)
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
 
@@ -18,7 +19,8 @@ Coding is a hobby. Fan of Emacs and Common Lisp.
 \- [Reproduction of Hamid Naderi Yeganeh's Morpho Butterfly in Common Lisp](https://github.com/occisn/cl-morpho-butterfly)  
 \- [Problem solving in Common Lisp](https://github.com/occisn/cl-problem-solving): Project Euler, Tupper formula  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
-\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs
+\- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs  
+\- [cl-z21](https://github.com/occisn/cl-z21): Common Lisp minimal demonstration code for controlling Roco Z21 model railway command stations over LAN (UDP)
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Personal utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
