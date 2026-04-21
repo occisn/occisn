@@ -1,5 +1,5 @@
 
-Coding is a hobby. Fan of Emacs and Common Lisp.
+Coding as a hobby. Fan of Emacs and Common Lisp.
 
 **Pinned:**  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
