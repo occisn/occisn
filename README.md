@@ -1,6 +1,8 @@
 
 Coding as a hobby. Fan of Emacs and Common Lisp.
 
+Blog: [effectivelambda.org](https://www.effectivelambda.org)
+
 **Pinned:**  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
