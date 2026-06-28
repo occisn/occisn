@@ -6,7 +6,8 @@ Blog: [effectivelambda.org](https://www.effectivelambda.org)
 **Pinned:**  
 \- my full and actual [Emacs configuration (init.el file)](https://github.com/occisn/emacs-config)  
 \- [Converter](https://github.com/occisn/cl-lisp2calc) from Common Lisp to GNU Calc  
-\- [cl-z21](https://github.com/occisn/cl-z21): Common Lisp minimal demonstration code for controlling Roco Z21 model railway command stations over LAN (UDP)
+\- [cl-z21](https://github.com/occisn/cl-z21): Common Lisp minimal demonstration code for controlling Roco Z21 model railway command stations over LAN (UDP)  
+\- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL
 <!-- \- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs -->
 
 **How to reach me:** [discussion linked to this profile repository](https://github.com/occisn/occisn/discussions), as well as issues and discussions in each repository
@@ -14,6 +15,7 @@ Blog: [effectivelambda.org](https://www.effectivelambda.org)
 **Full list of repositories per category:** (a project may appear in several categories)
 
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000.svg?style=for-the-badge&logo=Common-Lisp&logoColor=white)  
+\- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL  
 \- [Common Lisp minimal examples](https://github.com/occisn/cl-minimal-examples)  
 \- [Common Lisp GPU example](https://github.com/occisn/cl-gpu-example)  
 \- [Personal utilities for Common Lisp](https://github.com/occisn/cl-utils)  
@@ -26,10 +28,12 @@ Blog: [effectivelambda.org](https://www.effectivelambda.org)
 
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)  
 \- [Personal utilities for Emacs Lisp](https://github.com/occisn/elisp-utils)  
-\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula
+\- [Problem solving in Emacs Lisp](https://github.com/occisn/elisp-problem-solving): Project Euler, Tupper formula  
+\- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL  
 <!-- \- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs -->
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+\- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL  
 \- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc
 <!-- \- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs -->
 
