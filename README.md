@@ -32,7 +32,7 @@ Blog: [effectivelambda.org](https://www.effectivelambda.org)
 \- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL  
 <!-- \- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs -->
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
 \- [claude-lisp-repl](https://github.com/occisn/claude-lisp-repl): Recipes for driving a live, shared Common Lisp REPL image from Claude Code (via a tmux session or Emacs/SLIME) so that LLM and user evaluate, load and test in the same running SBCL  
 \- [calc-llm](https://github.com/occisn/calc-llm): LLM to convert numerical puzzle into GNU Calc
 <!-- \- [cl-swank-bridge](https://github.com/occisn/cl-swank-bridge): Python one-file bridge between Claude Code and living Common Lisp image within Emacs -->
